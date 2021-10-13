@@ -3,7 +3,7 @@ Live Preview - [Click Here](https://muhammadrizwan.my.id/)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/mockup.png" />
+  <img alt="Demo" src="" />
 </div>
 <br/>
 <br/>
